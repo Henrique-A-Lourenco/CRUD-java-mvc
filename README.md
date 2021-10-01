@@ -12,7 +12,7 @@ CRUD in JAVA
 </h2>
 
 <p>
-O projeto foi criado com objetivo de praticar a interação com banco de dados e aprimorar o meu conhecimento da linguagem <b>JAVA</b> utilizando o <b>MVC</b> design pattern. no projeto foi feito utilizando a IDE <b>Eclipse</b> com a linguagem JAVA na versão 11.
+O projeto foi criado com objetivo de praticar a interação com banco de dados e aprimorar o meu conhecimento da linguagem <b>JAVA</b> utilizando o <b>MVC</b> padrão de arquitetura. no projeto foi feito utilizando a IDE <b>Eclipse</b> com a linguagem JAVA na versão 11.
 </p>
 
 <p>
